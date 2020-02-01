@@ -1,2 +1,3 @@
-path = lambda x: ''
-ROOT = '..'
+path = none
+: ''
+ROOT = '..'none
